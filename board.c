@@ -1,11 +1,5 @@
-/*
- * memory.c
- *
- *  Created on: Jun 14, 2022
- *      Author: Joe Krachey
- */
 
-#include <staff/game_board.h>
+
 
 
 IMAGE_TYPE_t Game_Board[3][3] =
